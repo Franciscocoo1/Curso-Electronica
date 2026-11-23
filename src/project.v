@@ -4,7 +4,7 @@
  */
 `default_nettype none
 
-module tt_um_sensores (
+module tt_um_motormind (
     input  wire       clk,
     input  wire       rst_n,
     input  wire       ena,
